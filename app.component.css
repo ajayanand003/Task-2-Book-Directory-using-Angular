@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 700px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .search-bar {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .book-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .book-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .book-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .book-author {
+    font-size: 16px;
+  }
+  
+  .book-genre {
+    font-size: 14px;
+    color: #888;
+  }
+  
